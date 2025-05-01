@@ -129,14 +129,3 @@ prediction = model.predict(scaled_input)
 - SHAP Interpretability
 - Hyperparameter tuning
 
----
-
-## 👤 Author
-
-**Ahad Moeen**  
-Bachelor in Business & IT (Specializing in Data Analysis)  
-GitHub: [Your GitHub URL Here]  
-Email: [Your Email Here]
-
----
-
