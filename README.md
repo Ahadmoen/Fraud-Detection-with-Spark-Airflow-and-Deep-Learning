@@ -1,5 +1,5 @@
 
-# 💳 Credit Card Fraud Detection with ETL, Machine Learning & Deep Learning
+# 💳 Fraud Detection with ETL, Machine Learning & Deep Learning
 
 An end-to-end machine learning project that detects fraudulent credit card transactions using advanced data engineering and modeling techniques. It integrates PySpark for ETL, Airflow for scheduling, and models like Random Forest, Gradient Boosting, and Deep Learning (Keras Functional API). SMOTE is used to handle the class imbalance.
 
